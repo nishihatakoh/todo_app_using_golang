@@ -1,0 +1,6 @@
+2024/12/31 11:20:21 main.go:15: test
+2024/12/31 15:37:28 users.go:34: near "value": syntax error
+2025/01/03 16:02:21 todos.go:71: no such column: content
+2025/01/03 16:03:37 todos.go:71: no such column: content
+2025/01/03 16:06:21 todos.go:71: no such column: content
+2025/01/03 16:20:49 todos.go:41: not enough args to execute query: want 1 got 0
